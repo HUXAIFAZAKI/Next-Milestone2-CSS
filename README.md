@@ -1,8 +1,6 @@
-# React + Vite
+<h1>Milestone 2: Basic UI Design, Custom CSS</h1>
+<h2><bold>Assignments:</bold>
+<br/>
+Build a simple multi-page website using React components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Apply Custom CSS to style the website, ensuring responsiveness.</h2>
